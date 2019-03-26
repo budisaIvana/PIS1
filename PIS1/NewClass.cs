@@ -7,5 +7,6 @@ namespace PIS1
 {
     class NewClass
     {
+        int b;
     }
 }
